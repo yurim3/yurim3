@@ -1,13 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:639962,100:a82da8&height=300&section=header&text=shin%20yurim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting!&descAlignY=51&descAlign=62)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
