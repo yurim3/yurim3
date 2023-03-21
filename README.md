@@ -1,6 +1,6 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0d,100:f94001&height=180&section=header&text=SHIN%20YURIM%20WORLD%20%F0%9F%91%8B&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:computer:Languages and Tools:computer:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -14,5 +14,4 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurim3&langs_count=6&layout=compact&theme=dark)](https://github.com/yurim3/yurim3)
