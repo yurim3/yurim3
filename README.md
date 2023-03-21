@@ -1,4 +1,4 @@
-![header]<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0d,100:f94001&height=180&section=header&text=SHIN%20YURIM%20WORLD%20%F0%9F%91%8B&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/>
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0d,100:f94001&height=180&section=header&text=SHIN%20YURIM%20WORLD%20%F0%9F%91%8B&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
