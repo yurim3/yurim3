@@ -1,6 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:random,100:f94001&height=180&section=header&text=SHIN%20YURIM%20WORLD&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/>
 
 <h3 align="left"> :grey_question: Info</h3>
+<a href="https://www.instagram.com/u.appi2" target="_blank"><img src="https://img.shields.io/badge/u.appi2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <h3 align="left">:computer:Languages and Tools</h3>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
